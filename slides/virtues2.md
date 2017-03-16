@@ -1,4 +1,9 @@
 <!-- .slide: data-state="dim" data-background="resources/last-supper.jpg" -->
 
-# The 7 Virtues
-### of Developer Onboarding
+* Charity
+* Patience
+* Temperance
+* Humility
+* Kindness
+* Diligence
+* Devotion
