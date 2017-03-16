@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cbetta/slides-seven-sins.git"
+    "url": "git@github.com:cbetta/slides-seven-sins-of-developer-onboarding.git"
 
   },
   "scripts": {
